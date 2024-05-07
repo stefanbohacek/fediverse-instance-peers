@@ -1,6 +1,6 @@
 # How many fediverse servers know about my server?
 
-This repo contains a node.js script that accompanies a blog post (link coming soon) where I explored how well-connected my self-hosted, single-user instance is across the fediverse, using data collected by fedilist.com.
+This repo contains a node.js script that accompanies a [blog post](https://stefanbohacek.com/blog/how-many-fediverse-servers-know-about-my-server/) where I explored how well-connected my self-hosted, single-user instance is across the fediverse, using data collected by fedilist.com.
 
 For more details, see the documented of the `instance/peers` endpoint on [docs.joinmastodon.org](https://docs.joinmastodon.org/methods/instance/#peers).
 
