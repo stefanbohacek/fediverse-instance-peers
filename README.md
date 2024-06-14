@@ -9,8 +9,7 @@ For more details, see the documented of the `instance/peers` endpoint on [docs.j
 1. Make sure you have [node.js](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs) installed.
 2. Download the latest list of instances from http://demo.fedilist.com/instance and save it as `servers.csv`.
 3. Install dependencies with `npm install`.
-4. Update the value of `peerDomain`.
-5. Run the script that fetches the peer data with `npm start` and the name of the domain you're checking peers for, example:
+4. Run the script that fetches the peer data with `npm start` and the name of the domain you're checking peers for, example:
 
 ```sh
 npm start example.social
